@@ -1,8 +1,18 @@
 function App() {
     return (
         <div>
-            <Tweet content="hello"/>
-            <Tweet content="react!"/>
+            <Tweet 
+                icon="33862939.jpeg"
+                displayName="いるく"
+                accountName="iruk"
+                content="hogehoge"
+            />
+            <Tweet 
+                icon="33862939.jpeg"
+                displayName="エビデンス"
+                accountName="evidence"
+                content="かにみそたべたい"
+            />
         </div>
     );
 }
