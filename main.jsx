@@ -3,16 +3,9 @@ function App() {
         {
           id: 0,
           icon: '33862939.jpeg',
-          displayName: 'もろこし太郎',
-          accountName: 'morokoshi',
-          content: '今日も1日もろこしがうまい'
-        },
-        {
-          id: 1,
-          icon: '33862939.jpeg',
-          displayName: 'エビデンス',
-          accountName: 'evidence',
-          content: 'かにみそたべたい'
+          displayName: 'いるく',
+          accountName: 'IrukNuj',
+          content: '女子力'
         }
       ]);
 
